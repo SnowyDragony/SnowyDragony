@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Just a little guy learning how to code and waiting for the results of my piscine at 42
+- Just a little guy learning how to code at 42 !
 <!--
 **SnowyDragony/SnowyDragony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
